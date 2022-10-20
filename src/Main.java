@@ -96,7 +96,6 @@ public class Main {
         int mashaSalary = 67760;
         int denisSalary = 83690;
         int kristinaSalary = 76230;
-
         float mashaMonthlySalary = mashaSalary * 1.1f;
         float denisMonthlySalary = denisSalary * 1.1f;
         float kristinaMonthlySalary = kristinaSalary * 1.1f;
@@ -104,7 +103,6 @@ public class Main {
         int mashaSalaryYear = mashaSalary * 12;
         int denisSalaryYear = denisSalary * 12;
         int kristinaSalaryYear = kristinaSalary * 12;
-
         float mashaYearRise = mashaMonthlySalary * 12f;
         float denisYearRise = denisMonthlySalary * 12f;
         float kristinaYearRise = kristinaMonthlySalary * 12f;
